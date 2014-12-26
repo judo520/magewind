@@ -2,3 +2,6 @@
 /nbproject/configs/
 /nbproject/project.properties
 /nbproject/project.xml
+/app/etc/local.xml
+/var/cache/
+/var/session/
